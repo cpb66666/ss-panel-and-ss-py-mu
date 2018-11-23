@@ -8,14 +8,14 @@ CLOUDSAFE = 1
 ANTISSATTACK = 0
 AUTOEXEC = 0
 
-MU_SUFFIX = 'bing.com'
+MU_SUFFIX = 'www.apple.com'
 MU_REGEX = '%5m%id.%suffix'
 
 SERVER_PUB_ADDR = '127.0.0.1'  # mujson_mgr need this to generate ssr link
 API_INTERFACE = 'glzjinmod'  # mupassmod, modwebapi
 
 WEBAPI_URL = 'http://192.241.194.172'
-WEBAPI_TOKEN = 'mupass'
+WEBAPI_TOKEN = 'ssr'
 
 # mudb
 MUDB_FILE = 'mudb.json'
